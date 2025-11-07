@@ -47,6 +47,7 @@ It is designed to organize and share projects for various Nucleo and custom boar
 | **Keyboard / Input** | Keypad / Touch               | `keypad_scan`          | Matrix keypad scanning and debouncing                   | C        |
 
 
+
 ## Library MCU
 - Bare-Metal
 - LL and HAL
