@@ -16,6 +16,7 @@ It is designed to organize and share projects for various Nucleo and custom boar
 - STM32G431, STM32G474, STM32G484, and other STM32G4 series MCUs
 
 ## Project Structure
+🧠 STM32G474VET6 Project List — C / C++ Examples
 | 🗂️ **Category**        | ⚙️ **Module**                | 💡 **Example Project** | 🧾 **Description**                                      | 💻 **Language** |
 | ----------------------- | ---------------------------- | ---------------------- | ------------------------------------------------------- | --------------- |
 | 🔌 **GPIOs**            | Input / Output               | `gpio_toggle`          | Basic input/output pin control, LED blink, button input | C               |
