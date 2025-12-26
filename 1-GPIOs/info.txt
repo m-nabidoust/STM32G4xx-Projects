@@ -1,0 +1,5 @@
+Microcontroller : STM32G474VET6
+Library: HAL, LL, Bare-metal, FreeRTOS
+Compilers: STM32CubeMX, STM32CubeIDE
+
+Learning Video : YouTube / @SphereElectro
